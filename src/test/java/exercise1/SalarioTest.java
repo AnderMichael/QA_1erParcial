@@ -17,8 +17,10 @@ public class SalarioTest {
     @ParameterizedTest
     @CsvSource({
             "10000, 8500",
+            "4000, 3800",
             "3000, 2850",
             "1750, 1750",
+            "0,0",
             "-3000, -1"})
     public void verifyMethodSalarioDescuento(double sueldo, double expected) throws Exception {
         if (sueldo < 0) {
