@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise2.VueloTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-10-04T23:13:22" hostname="LAPTOP-V6TDORT5" time="0.354">
+  <properties/>
+  <testcase name="[1] La Paz, 2, 29, 5, 2023, true, el dia Lunes 29 Mayo 2023 existen 2 pasajes para La Paz" classname="exercise2.VueloTest" time="0.278"/>
+  <testcase name="[2] La Paz, 2, 29, 5, 2023, false, no existen suficientes pasajes para La Paz" classname="exercise2.VueloTest" time="0.015"/>
+  <testcase name="[3] La Paz, 2, 29, 13, 2023, false, mes incorrecto" classname="exercise2.VueloTest" time="0.02"/>
+  <testcase name="[4] La Paz, 2, 29, -1, 2023, false, mes incorrecto" classname="exercise2.VueloTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
